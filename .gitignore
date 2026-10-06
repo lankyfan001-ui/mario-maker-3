@@ -1,0 +1,12 @@
+# Godot-specific ignores
+
+# Godot 4 project metadata
+.godot/
+.import/
+
+# Build output
+builds/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
